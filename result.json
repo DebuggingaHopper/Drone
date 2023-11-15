@@ -49,27 +49,8 @@
     "completions": [
       {
         "id": 1001,
-        "lead_time": 63.763,
+        "lead_time": 6.372,
         "result": [
-          {
-            "from_name": "tag",
-            "id": "1Ky8G9OAms",
-            "original_height": 2250,
-            "original_width": 4000,
-            "source": "$image",
-            "to_name": "img",
-            "type": "rectanglelabels",
-            "value": {
-              "height": 70.85308056872037,
-              "rectanglelabels": [
-                "Parkinglot"
-              ],
-              "rotation": 0,
-              "width": 13.369090710264265,
-              "x": -1.1245452534068714,
-              "y": 16.587677725118482
-            }
-          },
           {
             "from_name": "tag",
             "id": "t4ibO9wBIc",
@@ -114,7 +95,8 @@
     "data": {
       "image": "/upload/2e72f3b742a70784e8e1d3fbffd6189e-DJI_0040.JPG"
     },
-    "id": 1
+    "id": 1,
+    "predictions": []
   },
   {
     "completions": [
@@ -166,7 +148,7 @@
     "completions": [
       {
         "id": 6001,
-        "lead_time": 454.349,
+        "lead_time": 27.305,
         "result": [
           {
             "from_name": "tag",
@@ -177,14 +159,14 @@
             "to_name": "img",
             "type": "rectanglelabels",
             "value": {
-              "height": 45.217849066860644,
+              "height": 41.47215691246828,
               "rectanglelabels": [
                 "Fhouse"
               ],
               "rotation": 340.2386242615462,
-              "width": 39.10902839348867,
-              "x": 6.073398174079409,
-              "y": 55.03179154604696
+              "width": 39.08985434601146,
+              "x": 6.747562777320545,
+              "y": 58.26572840841153
             }
           },
           {
@@ -262,25 +244,6 @@
               "x": 97.2,
               "y": 45.023696682464454
             }
-          },
-          {
-            "from_name": "tag",
-            "id": "o3rmfz9IVB",
-            "original_height": 2250,
-            "original_width": 4000,
-            "source": "$image",
-            "to_name": "img",
-            "type": "rectanglelabels",
-            "value": {
-              "height": 51.0540571222097,
-              "rectanglelabels": [
-                "Parkinglot"
-              ],
-              "rotation": 338.37623203831026,
-              "width": 20.937128913667785,
-              "x": -10.01308615233982,
-              "y": 12.422866663134434
-            }
           }
         ]
       }
@@ -288,13 +251,14 @@
     "data": {
       "image": "/upload/48a49d1b42de5bdf500c63fb10f2344f-DJI_0045.JPG"
     },
-    "id": 6
+    "id": 6,
+    "predictions": []
   },
   {
     "completions": [
       {
         "id": 19001,
-        "lead_time": 95.615,
+        "lead_time": 11.226,
         "result": [
           {
             "from_name": "tag",
@@ -307,31 +271,12 @@
             "value": {
               "height": 45.05739312135387,
               "rectanglelabels": [
-                "Parkinglot"
+                "Fhouse"
               ],
               "rotation": 339.54232800705006,
               "width": 24.70174057275522,
               "x": -8.706989399591238,
               "y": 50.200605588632044
-            }
-          },
-          {
-            "from_name": "tag",
-            "id": "LKKA_-4BdI",
-            "original_height": 2250,
-            "original_width": 4000,
-            "source": "$image",
-            "to_name": "img",
-            "type": "rectanglelabels",
-            "value": {
-              "height": 31.12781277321377,
-              "rectanglelabels": [
-                "Parkinglot"
-              ],
-              "rotation": 342.20203832881987,
-              "width": 40.47111365880947,
-              "x": -0.5966620036663924,
-              "y": 93.63566586404039
             }
           }
         ]
@@ -340,7 +285,8 @@
     "data": {
       "image": "/upload/2201b5fc0af70038a5f30745193fe9ed-DJI_0058.JPG"
     },
-    "id": 19
+    "id": 19,
+    "predictions": []
   },
   {
     "completions": [
@@ -464,27 +410,8 @@
     "completions": [
       {
         "id": 13001,
-        "lead_time": 34.729,
+        "lead_time": 18.177,
         "result": [
-          {
-            "from_name": "tag",
-            "id": "ql3VScO1sD",
-            "original_height": 2250,
-            "original_width": 4000,
-            "source": "$image",
-            "to_name": "img",
-            "type": "rectanglelabels",
-            "value": {
-              "height": 51.83098663186802,
-              "rectanglelabels": [
-                "Lampost"
-              ],
-              "rotation": 0,
-              "width": 14.37028586630042,
-              "x": -0.05224895792377578,
-              "y": 36.54896129878662
-            }
-          },
           {
             "from_name": "tag",
             "id": "gNMMRG7p-S",
@@ -529,7 +456,8 @@
     "data": {
       "image": "/upload/7099e661b025c14941f40c6f4fe0c5ad-DJI_0052.JPG"
     },
-    "id": 13
+    "id": 13,
+    "predictions": []
   },
   {
     "completions": [
@@ -581,7 +509,7 @@
     "completions": [
       {
         "id": 12001,
-        "lead_time": 43.967,
+        "lead_time": 25.848,
         "result": [
           {
             "from_name": "tag",
@@ -623,25 +551,6 @@
           },
           {
             "from_name": "tag",
-            "id": "zk8hBqc-iB",
-            "original_height": 2250,
-            "original_width": 4000,
-            "source": "$image",
-            "to_name": "img",
-            "type": "rectanglelabels",
-            "value": {
-              "height": 2.843601895734597,
-              "rectanglelabels": [
-                "Lampost"
-              ],
-              "rotation": 0,
-              "width": 1.8666666666666667,
-              "x": 51.333333333333336,
-              "y": 45.26066350710901
-            }
-          },
-          {
-            "from_name": "tag",
             "id": "tYgf4177nH",
             "original_height": 2250,
             "original_width": 4000,
@@ -656,7 +565,26 @@
               "rotation": 0,
               "width": 3.7333333333333334,
               "x": 53.06666666666667,
-              "y": 17.53554502369668
+              "y": 17.535545023696677
+            }
+          },
+          {
+            "from_name": "tag",
+            "id": "lwBfWrO8bM",
+            "original_height": 2250,
+            "original_width": 4000,
+            "source": "$image",
+            "to_name": "img",
+            "type": "rectanglelabels",
+            "value": {
+              "height": 4.502369668246446,
+              "rectanglelabels": [
+                "Lampost"
+              ],
+              "rotation": 0,
+              "width": 2.4,
+              "x": 50.4,
+              "y": 44.312796208530806
             }
           }
         ]
@@ -665,13 +593,14 @@
     "data": {
       "image": "/upload/381043fbc6aeed65942b308157c64f4b-DJI_0051.JPG"
     },
-    "id": 12
+    "id": 12,
+    "predictions": []
   },
   {
     "completions": [
       {
         "id": 7001,
-        "lead_time": 86.805,
+        "lead_time": 39.553,
         "result": [
           {
             "from_name": "tag",
@@ -682,33 +611,14 @@
             "to_name": "img",
             "type": "rectanglelabels",
             "value": {
-              "height": 44.779127029094354,
+              "height": 39.877549680968315,
               "rectanglelabels": [
-                "Parkinglot"
+                "Fhouse"
               ],
-              "rotation": 0,
-              "width": 21.133420278511792,
-              "x": -0.6067100375306372,
-              "y": 42.94446820321472
-            }
-          },
-          {
-            "from_name": "tag",
-            "id": "Zh4LiMcdoY",
-            "original_height": 2250,
-            "original_width": 4000,
-            "source": "$image",
-            "to_name": "img",
-            "type": "rectanglelabels",
-            "value": {
-              "height": 30.357087589954272,
-              "rectanglelabels": [
-                "Parkinglot"
-              ],
-              "rotation": 347.31145335387424,
-              "width": 39.371673193897045,
-              "x": 0.2007279879423992,
-              "y": 88.77538939889385
+              "rotation": 344.7559377136051,
+              "width": 22.808267567106,
+              "x": -7.163097977945258,
+              "y": 51.06085602760738
             }
           }
         ]
@@ -717,7 +627,8 @@
     "data": {
       "image": "/upload/54241542de4d0f540dada068cb814128-DJI_0046.JPG"
     },
-    "id": 7
+    "id": 7,
+    "predictions": []
   },
   {
     "completions": [
@@ -846,7 +757,7 @@
     "completions": [
       {
         "id": 18001,
-        "lead_time": 167.71,
+        "lead_time": 26.441,
         "result": [
           {
             "from_name": "tag",
@@ -865,25 +776,6 @@
               "width": 40.72504875660125,
               "x": 4.3475438884142426,
               "y": 60.240399788566044
-            }
-          },
-          {
-            "from_name": "tag",
-            "id": "XTotb_9JUl",
-            "original_height": 2250,
-            "original_width": 4000,
-            "source": "$image",
-            "to_name": "img",
-            "type": "rectanglelabels",
-            "value": {
-              "height": 51.09474342471119,
-              "rectanglelabels": [
-                "Parkinglot"
-              ],
-              "rotation": 342.9076760369213,
-              "width": 19.429807538837203,
-              "x": -10.349550604081843,
-              "y": 11.864193801588323
             }
           },
           {
@@ -942,6 +834,25 @@
               "x": 89.80459770114943,
               "y": -0.37594538820954965
             }
+          },
+          {
+            "from_name": "tag",
+            "id": "MUerrN6EWU",
+            "original_height": 2250,
+            "original_width": 4000,
+            "source": "$image",
+            "to_name": "img",
+            "type": "rectanglelabels",
+            "value": {
+              "height": 2.132701421800948,
+              "rectanglelabels": [
+                "Lampost"
+              ],
+              "rotation": 0,
+              "width": 1.866666666666667,
+              "x": 98.13333333333334,
+              "y": 45.26066350710901
+            }
           }
         ]
       }
@@ -949,7 +860,8 @@
     "data": {
       "image": "/upload/63cfe7b5a9800962b1d856326a00542b-DJI_0057.JPG"
     },
-    "id": 18
+    "id": 18,
+    "predictions": []
   },
   {
     "completions": [
